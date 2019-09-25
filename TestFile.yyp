@@ -1,0 +1,322 @@
+{
+    "id": "1eb1c39c-d7a2-4734-9772-85bee2ed9238",
+    "modelName": "GMProject",
+    "mvc": "1.0",
+    "IsDnDProject": false,
+    "configs": [
+        
+    ],
+    "option_ecma": false,
+    "parentProject": {
+        "id": "01fdaf8f-c0cf-41b4-8531-20cfe253a94f",
+        "modelName": "GMProjectParent",
+        "mvc": "1.0",
+        "alteredResources": [
+            {
+                "Key": "ed6a955d-5826-4f98-a450-10b414266c27",
+                "Value": {
+                    "configDeltas": [
+                        "inherited"
+                    ],
+                    "id": "b9794e46-a6b3-491a-91d3-733916685f78",
+                    "resourcePath": "options\\main\\options_main.yy",
+                    "resourceType": "GMMainOptions"
+                }
+            }
+        ],
+        "hiddenResources": [
+            
+        ],
+        "projectPath": "${base_project}"
+    },
+    "resources": [
+        {
+            "Key": "01c2145c-dcaa-4f31-8b7a-278bd7df7f99",
+            "Value": {
+                "id": "54ad8aea-3e98-42de-81ba-fdf453f1ea79",
+                "resourcePath": "views\\01c2145c-dcaa-4f31-8b7a-278bd7df7f99.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "032c7e19-38ee-4dfd-bc4f-7548db68991f",
+            "Value": {
+                "id": "a3775f43-1015-4f33-9295-4ee552560b77",
+                "resourcePath": "objects\\AchievementManager\\AchievementManager.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "06e153b5-f9bd-488d-bb3d-bf767942f565",
+            "Value": {
+                "id": "77f8965f-52d6-475a-8122-a0edd9cdb450",
+                "resourcePath": "extensions\\Icon_Pack\\Icon_Pack.yy",
+                "resourceType": "GMExtension"
+            }
+        },
+        {
+            "Key": "1a29f9f6-f4a0-4b33-a930-68ba4811fe9a",
+            "Value": {
+                "id": "6829bc45-213b-4f50-ab78-83e0fa5dc10f",
+                "resourcePath": "views\\1a29f9f6-f4a0-4b33-a930-68ba4811fe9a.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1ce8788d-41d9-417b-a5c4-ff6f036c6eeb",
+            "Value": {
+                "id": "178fec71-8e3d-4ff1-ad87-6fa9bfe69ee0",
+                "resourcePath": "views\\1ce8788d-41d9-417b-a5c4-ff6f036c6eeb.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1d57b4be-3926-4db6-a1ac-98da6c54f64e",
+            "Value": {
+                "id": "e4b1350b-8e19-4f0d-a8c8-1f0f85baf343",
+                "resourcePath": "views\\1d57b4be-3926-4db6-a1ac-98da6c54f64e.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "273ed6c6-6603-453f-81b0-e5e1da4e9af0",
+            "Value": {
+                "id": "efa89e7b-0cb5-4ee5-87eb-9ad23132ce94",
+                "resourcePath": "scripts\\ResetAchievements\\ResetAchievements.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "276de908-07c0-45f7-a4a0-dc70f00a9fc2",
+            "Value": {
+                "id": "bdc1ec0f-7aa1-4164-8ac5-22a7576f329f",
+                "resourcePath": "views\\276de908-07c0-45f7-a4a0-dc70f00a9fc2.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "41541f96-4f06-4ed5-97d9-93725c32d47d",
+            "Value": {
+                "id": "c83216c0-ab79-407d-9ea5-ab28273e8d18",
+                "resourcePath": "scripts\\UnlockAchievement\\UnlockAchievement.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "42e85f98-94be-41e3-bc48-0c0a9d2f71c9",
+            "Value": {
+                "id": "cbcbe5ca-a80d-45f6-8e6c-7576ae740df5",
+                "resourcePath": "views\\42e85f98-94be-41e3-bc48-0c0a9d2f71c9.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4aedc041-981f-4dbf-bca0-414cc699bdd4",
+            "Value": {
+                "id": "ab163d11-dba3-44b4-a212-5ea959368d81",
+                "resourcePath": "views\\4aedc041-981f-4dbf-bca0-414cc699bdd4.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "66c81cb4-2a70-401e-b128-afd0f641e7b5",
+            "Value": {
+                "id": "0bddc826-81c5-46b4-9135-692db3b595b5",
+                "resourcePath": "extensions\\Space_Images\\Space_Images.yy",
+                "resourceType": "GMExtension"
+            }
+        },
+        {
+            "Key": "78590c5f-0b40-45de-910e-96267465f1ae",
+            "Value": {
+                "id": "a7a73fe7-1937-4b50-947d-cf073e1c3484",
+                "resourcePath": "views\\78590c5f-0b40-45de-910e-96267465f1ae.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "92f72133-0ade-4930-8df8-6c89c67d2519",
+            "Value": {
+                "id": "a9a4e3d2-f049-4cbf-8b81-2c13f12d4dd3",
+                "resourcePath": "views\\92f72133-0ade-4930-8df8-6c89c67d2519.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9729afa0-22da-448b-821d-2f8c6ebda318",
+            "Value": {
+                "id": "f392d2e5-4e62-4f6a-9a1c-85423d4ef6f6",
+                "resourcePath": "objects\\AchievementMenu\\AchievementMenu.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "98ba8f07-a1fd-4f19-ba4a-0b9895bbe8fb",
+            "Value": {
+                "id": "9e7663bb-0c84-476d-84a9-3746085906c3",
+                "resourcePath": "views\\98ba8f07-a1fd-4f19-ba4a-0b9895bbe8fb.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "99465348-7413-4edf-a625-af26ba685f2b",
+            "Value": {
+                "id": "1b95d9cc-e6c9-4019-8544-b58a7d1c625b",
+                "resourcePath": "scripts\\initializeAchievements\\initializeAchievements.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "9d2d74ac-2bdb-48ac-81a8-d2167b37ca38",
+            "Value": {
+                "id": "ca63f7d8-e42a-4150-b8ec-a9dc27c5d03c",
+                "resourcePath": "views\\9d2d74ac-2bdb-48ac-81a8-d2167b37ca38.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
+            "Value": {
+                "id": "6c655c15-e212-4138-81a8-3ffc93f70a8e",
+                "resourcePath": "options\\linux\\options_linux.yy",
+                "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "af1dbf89-0f4a-4965-b1df-c3a9c7b85f14",
+            "Value": {
+                "id": "4e4f9ab9-6996-4e83-8b63-a2156a582ae8",
+                "resourcePath": "views\\af1dbf89-0f4a-4965-b1df-c3a9c7b85f14.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b13783e2-1453-48fd-bdc8-32ebdf0d06ce",
+            "Value": {
+                "id": "bd959491-e63d-492e-a9b6-3ff1f829dc6e",
+                "resourcePath": "views\\b13783e2-1453-48fd-bdc8-32ebdf0d06ce.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b16af74f-9484-42c2-b3fc-2aa09ad09c8e",
+            "Value": {
+                "id": "1ba08f4b-7f40-4a34-859e-bf1d3764eb44",
+                "resourcePath": "views\\b16af74f-9484-42c2-b3fc-2aa09ad09c8e.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "bac62543-6f78-42fa-a487-8661c209c2a3",
+            "Value": {
+                "id": "e2a13ab3-9f1d-438f-b607-3cbbafec6e95",
+                "resourcePath": "views\\bac62543-6f78-42fa-a487-8661c209c2a3.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "bb0b372b-5964-4a54-9ac2-c956183d7063",
+            "Value": {
+                "id": "b3b1c966-0c35-4a40-a7ba-a854c7203f64",
+                "resourcePath": "views\\bb0b372b-5964-4a54-9ac2-c956183d7063.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c21a5b02-1cdb-40c9-9df3-5a7f40919381",
+            "Value": {
+                "id": "a9d16066-e924-49b5-9915-94169e796a4a",
+                "resourcePath": "sprites\\spr_acheivment\\spr_acheivment.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c3f216ff-f9dc-4f8b-b6c2-b8428f45c23a",
+            "Value": {
+                "id": "38b77883-27dd-4aed-a10e-2324c090a3bd",
+                "resourcePath": "rooms\\rm_test\\rm_test.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "c98033b2-9d32-4431-871c-0fe5d5487494",
+            "Value": {
+                "id": "74603379-8704-4fa7-b4f8-284a9b07e3fe",
+                "resourcePath": "objects\\AchievementPopup\\AchievementPopup.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
+            "Value": {
+                "id": "2777ae5a-14c5-4a73-950e-49dde5f28616",
+                "resourcePath": "options\\windows\\options_windows.yy",
+                "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "cd08f25b-cb96-466d-bac6-e3ceefdad7d7",
+            "Value": {
+                "id": "805104c2-914e-45a1-bcc8-86560b8976e4",
+                "resourcePath": "rooms\\rm_achievements\\rm_achievements.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "d2d44cc8-e29b-42e9-a876-a929a2c9d1d4",
+            "Value": {
+                "id": "eb79eaca-3be4-4480-a66c-cdf18ea43331",
+                "resourcePath": "views\\d2d44cc8-e29b-42e9-a876-a929a2c9d1d4.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d7737c3a-8906-4363-bd42-6420c310ddb0",
+            "Value": {
+                "id": "bf1a5489-babf-4137-8c30-39731e1d3015",
+                "resourcePath": "scripts\\LoadAchievements\\LoadAchievements.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "d7ff8edf-9381-4af7-9e25-0ffcb2559b6c",
+            "Value": {
+                "id": "9772e974-eb77-4a34-acb4-a567abb12355",
+                "resourcePath": "views\\d7ff8edf-9381-4af7-9e25-0ffcb2559b6c.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "de947515-11e1-425a-b6c9-2140883c4533",
+            "Value": {
+                "id": "4b680fd4-7b8c-47fb-ab7f-13363c14831a",
+                "resourcePath": "views\\de947515-11e1-425a-b6c9-2140883c4533.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e153b65c-6de2-482b-89fe-97c7f79c1736",
+            "Value": {
+                "id": "589ab052-c029-4940-81e8-2d94ce758e5d",
+                "resourcePath": "scripts\\SaveAchievements\\SaveAchievements.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
+            "Value": {
+                "id": "051db7d2-6afa-4cf7-94c7-d571ddd39600",
+                "resourcePath": "options\\mac\\options_mac.yy",
+                "resourceType": "GMMacOptions"
+            }
+        }
+    ],
+    "script_order": [
+        "41541f96-4f06-4ed5-97d9-93725c32d47d",
+        "d7737c3a-8906-4363-bd42-6420c310ddb0",
+        "e153b65c-6de2-482b-89fe-97c7f79c1736",
+        "273ed6c6-6603-453f-81b0-e5e1da4e9af0",
+        "99465348-7413-4edf-a625-af26ba685f2b"
+    ],
+    "tutorial": ""
+}
